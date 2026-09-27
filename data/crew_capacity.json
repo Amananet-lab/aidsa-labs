@@ -1,0 +1,26 @@
+{
+  "description": "Maintenance crew capacity for the allocation problem in L05. Notional values for teaching.",
+  "capacity_crews": 24,
+  "aircraft_types": [
+    "C-17A",
+    "C-5M",
+    "KC-135R",
+    "KC-46A"
+  ],
+  "minimum_crews": [
+    5,
+    3,
+    5,
+    3
+  ],
+  "crew_effect": [
+    0.12,
+    0.15,
+    0.1,
+    0.18
+  ],
+  "notes": {
+    "minimum_crews": "The least each type can be given; at the minimum, its delay rate is the observed rate from L03.",
+    "crew_effect": "How quickly each extra crew reduces a type's delay rate: the rate falls by a factor exp(-effect) per crew above the minimum."
+  }
+}

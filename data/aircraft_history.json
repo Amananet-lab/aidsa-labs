@@ -1,0 +1,6018 @@
+[
+ {
+  "tail_id": "T-0134",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0134-I1",
+    "date": "2024-03-07",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00001",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0134-I2",
+    "date": "2024-04-18",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00002",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00003",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00004",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00005",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0134-I3",
+    "date": "2024-09-06",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00006",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00007",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00008",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00009",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0143",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0143-I1",
+    "date": "2024-02-16",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00010",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00011",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00012",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0143-I2",
+    "date": "2024-09-27",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0143-I3",
+    "date": "2024-10-15",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00013",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00014",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0176",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0176-I1",
+    "date": "2024-08-25",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0208",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0208-I2",
+    "date": "2024-03-01",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00015",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00016",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0208-I1",
+    "date": "2024-03-28",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0217",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0217-I3",
+    "date": "2024-05-14",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00025",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00026",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0217-I2",
+    "date": "2024-06-10",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00021",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00022",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00023",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00024",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0217-I1",
+    "date": "2024-06-26",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00017",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00018",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00019",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00020",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0217-I4",
+    "date": "2024-07-19",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00027",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00028",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0255",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0255-I3",
+    "date": "2024-01-10",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00031",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00032",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00033",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0255-I2",
+    "date": "2024-04-25",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0255-I1",
+    "date": "2024-05-13",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00029",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00030",
+      "system": "engines",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0281",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0281-I1",
+    "date": "2024-01-22",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00034",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00035",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00036",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00037",
+      "system": "environmental",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0281-I3",
+    "date": "2024-02-03",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00042",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0281-I2",
+    "date": "2024-03-22",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00038",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00039",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00040",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00041",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0281-I4",
+    "date": "2024-11-15",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00043",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00044",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00045",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0314",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0314-I2",
+    "date": "2024-08-21",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00048",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00049",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00050",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0314-I1",
+    "date": "2024-11-14",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00046",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00047",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0348",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0348-I1",
+    "date": "2024-03-12",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00051",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0370",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0370-I1",
+    "date": "2024-01-28",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00052",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00053",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00054",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00055",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0370-I4",
+    "date": "2024-05-01",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0370-I3",
+    "date": "2024-05-07",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0370-I2",
+    "date": "2024-08-13",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00056",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00057",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00058",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00059",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0409",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0409-I1",
+    "date": "2024-04-25",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00060",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00061",
+      "system": "engines",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00062",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00063",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0409-I2",
+    "date": "2024-12-30",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0425",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0425-I1",
+    "date": "2024-08-25",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00064",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00065",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00066",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0463",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0463-I1",
+    "date": "2024-08-22",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00067",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00068",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0473",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0473-I1",
+    "date": "2024-09-21",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00069",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00070",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00071",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0493",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0493-I3",
+    "date": "2024-01-29",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00077",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00078",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00079",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00080",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0493-I1",
+    "date": "2024-06-05",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00072",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0493-I2",
+    "date": "2024-08-07",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00073",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00074",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00075",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00076",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0531",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0531-I1",
+    "date": "2024-03-25",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00081",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00082",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00083",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0531-I3",
+    "date": "2024-08-13",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0531-I4",
+    "date": "2024-11-10",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00086",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0531-I2",
+    "date": "2024-11-13",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00084",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00085",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0549",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0549-I2",
+    "date": "2024-03-17",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0549-I1",
+    "date": "2024-04-26",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00087",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0577",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0577-I1",
+    "date": "2024-11-05",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00088",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00089",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00090",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0599",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0599-I1",
+    "date": "2024-10-21",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00091",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00092",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00093",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0620",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0620-I2",
+    "date": "2024-06-12",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0620-I1",
+    "date": "2024-10-09",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00094",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00095",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00096",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0620-I3",
+    "date": "2024-11-16",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00097",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00098",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00099",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0639",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0639-I3",
+    "date": "2024-03-28",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00104",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00105",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00106",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0639-I2",
+    "date": "2024-04-11",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00100",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00101",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00102",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00103",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0639-I1",
+    "date": "2024-12-20",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0664",
+  "aircraft_type": "C-17A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0664-I3",
+    "date": "2024-05-16",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00113",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0664-I1",
+    "date": "2024-07-03",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00107",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00108",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00109",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00110",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0664-I2",
+    "date": "2024-07-27",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00111",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00112",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0664-I4",
+    "date": "2024-12-27",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0668",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0668-I2",
+    "date": "2024-01-25",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00114",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00115",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00116",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0668-I1",
+    "date": "2024-10-18",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0695",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0695-I2",
+    "date": "2024-07-07",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00119",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00120",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00121",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00122",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0695-I1",
+    "date": "2024-09-14",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00117",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00118",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0730",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0730-I2",
+    "date": "2024-02-06",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00126",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0730-I1",
+    "date": "2024-10-22",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00123",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00124",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00125",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0752",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0752-I2",
+    "date": "2024-02-23",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00131",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00132",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00133",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0752-I1",
+    "date": "2024-04-11",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00127",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00128",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00129",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00130",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0764",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0764-I3",
+    "date": "2024-07-06",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00137",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00138",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00139",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00140",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0764-I2",
+    "date": "2024-08-15",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00136",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0764-I1",
+    "date": "2024-12-18",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00134",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00135",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0780",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0780-I1",
+    "date": "2024-02-21",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00141",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0790",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0790-I1",
+    "date": "2024-12-18",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00142",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00143",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00144",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0821",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0821-I3",
+    "date": "2024-04-13",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00150",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0821-I1",
+    "date": "2024-06-30",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00145",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00146",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00147",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00148",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0821-I2",
+    "date": "2024-09-28",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00149",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0827",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0827-I2",
+    "date": "2024-04-24",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00151",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00152",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00153",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0827-I3",
+    "date": "2024-08-29",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00154",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00155",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00156",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00157",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0827-I1",
+    "date": "2024-09-10",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0827-I4",
+    "date": "2024-11-19",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00158",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00159",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0865",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0865-I2",
+    "date": "2024-02-29",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00161",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0865-I1",
+    "date": "2024-10-14",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00160",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0870",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0870-I3",
+    "date": "2024-01-15",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00164",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0870-I1",
+    "date": "2024-02-07",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00162",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00163",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0870-I4",
+    "date": "2024-10-10",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00165",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00166",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0870-I2",
+    "date": "2024-11-21",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0891",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0891-I1",
+    "date": "2024-02-16",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00167",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00168",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00169",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0914",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0914-I2",
+    "date": "2024-04-05",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0914-I3",
+    "date": "2024-06-15",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0914-I4",
+    "date": "2024-07-18",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00174",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00175",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00176",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0914-I1",
+    "date": "2024-10-06",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00170",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00171",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00172",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00173",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0939",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0939-I1",
+    "date": "2024-08-08",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-0939-I2",
+    "date": "2024-10-17",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00177",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0951",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0951-I2",
+    "date": "2024-01-30",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00180",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0951-I1",
+    "date": "2024-05-28",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00178",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00179",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0951-I3",
+    "date": "2024-07-12",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00181",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00182",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00183",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00184",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0951-I4",
+    "date": "2024-08-25",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00185",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00186",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00187",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0988",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-0988-I4",
+    "date": "2024-03-26",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00196",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00197",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0988-I1",
+    "date": "2024-05-26",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00188",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00189",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0988-I2",
+    "date": "2024-08-23",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00190",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00191",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-0988-I3",
+    "date": "2024-12-19",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00192",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00193",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00194",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00195",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1020",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-1020-I1",
+    "date": "2024-10-02",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1056",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-1056-I2",
+    "date": "2024-03-11",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1056-I1",
+    "date": "2024-10-25",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00198",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00199",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00200",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00201",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1088",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-1088-I1",
+    "date": "2024-04-19",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00202",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1088-I2",
+    "date": "2024-11-28",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00203",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00204",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1088-I3",
+    "date": "2024-12-13",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00205",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00206",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00207",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1113",
+  "aircraft_type": "KC-46A",
+  "home_base": "Halstead AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-1113-I4",
+    "date": "2024-01-06",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00214",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1113-I3",
+    "date": "2024-03-18",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00213",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1113-I1",
+    "date": "2024-04-01",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00208",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00209",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1113-I2",
+    "date": "2024-08-28",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00210",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00211",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00212",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1137",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1137-I4",
+    "date": "2024-02-13",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00221",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1137-I2",
+    "date": "2024-02-17",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00219",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00220",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1137-I1",
+    "date": "2024-05-25",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00215",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00216",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00217",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00218",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1137-I3",
+    "date": "2024-06-12",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1171",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1171-I1",
+    "date": "2024-05-08",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00222",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00223",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00224",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1171-I2",
+    "date": "2024-09-05",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00225",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00226",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00227",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00228",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1171-I3",
+    "date": "2024-09-07",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1194",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1194-I3",
+    "date": "2024-02-23",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1194-I4",
+    "date": "2024-04-13",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00233",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00234",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00235",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00236",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1194-I1",
+    "date": "2024-05-14",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00229",
+      "system": "engines",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00230",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00231",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00232",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1194-I2",
+    "date": "2024-09-30",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1221",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1221-I1",
+    "date": "2024-04-24",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00237",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1221-I2",
+    "date": "2024-10-05",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00238",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00239",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00240",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1221-I3",
+    "date": "2024-10-08",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00241",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00242",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1221-I4",
+    "date": "2024-12-08",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00243",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00244",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00245",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1258",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1258-I1",
+    "date": "2024-10-16",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1281",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1281-I3",
+    "date": "2024-04-20",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00249",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00250",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1281-I2",
+    "date": "2024-08-22",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00246",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00247",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00248",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1281-I1",
+    "date": "2024-11-04",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1311",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1311-I2",
+    "date": "2024-10-25",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00252",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1311-I1",
+    "date": "2024-11-27",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00251",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1327",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1327-I1",
+    "date": "2024-08-02",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00253",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00254",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00255",
+      "system": "environmental",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1327-I2",
+    "date": "2024-08-28",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1327-I3",
+    "date": "2024-12-08",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00256",
+      "system": "engines",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00257",
+      "system": "fuel",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1340",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1340-I1",
+    "date": "2024-07-14",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00258",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00259",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00260",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00261",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1340-I2",
+    "date": "2024-07-18",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1373",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1373-I3",
+    "date": "2024-05-22",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00262",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00263",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1373-I2",
+    "date": "2024-05-27",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1373-I4",
+    "date": "2024-06-01",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00264",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00265",
+      "system": "avionics",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00266",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00267",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1373-I1",
+    "date": "2024-08-06",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1395",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1395-I1",
+    "date": "2024-09-28",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00268",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00269",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1395-I2",
+    "date": "2024-10-27",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1425",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1425-I2",
+    "date": "2024-03-03",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00274",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00275",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00276",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00277",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1425-I4",
+    "date": "2024-06-24",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00281",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00282",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00283",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00284",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1425-I1",
+    "date": "2024-07-31",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00270",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00271",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00272",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00273",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1425-I3",
+    "date": "2024-10-24",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00278",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00279",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00280",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1462",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1462-I1",
+    "date": "2024-04-10",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1462-I2",
+    "date": "2024-10-21",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00285",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00286",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00287",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00288",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1496",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1496-I2",
+    "date": "2024-10-12",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1496-I1",
+    "date": "2024-10-22",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1504",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1504-I1",
+    "date": "2024-01-10",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1510",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1510-I1",
+    "date": "2024-03-21",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00289",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1510-I2",
+    "date": "2024-09-21",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1537",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1537-I1",
+    "date": "2024-06-19",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00290",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00291",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1553",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1553-I2",
+    "date": "2024-07-30",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00295",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00296",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1553-I1",
+    "date": "2024-08-08",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00292",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00293",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00294",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1557",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1557-I3",
+    "date": "2024-01-12",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00301",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00302",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00303",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00304",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1557-I2",
+    "date": "2024-08-30",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1557-I1",
+    "date": "2024-11-02",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00297",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00298",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00299",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00300",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1557-I4",
+    "date": "2024-12-16",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1581",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1581-I1",
+    "date": "2024-04-10",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1581-I2",
+    "date": "2024-09-10",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00305",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00306",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00307",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00308",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1581-I3",
+    "date": "2024-10-15",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00309",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1593",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1593-I2",
+    "date": "2024-01-06",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1593-I1",
+    "date": "2024-04-26",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00310",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1593-I3",
+    "date": "2024-05-27",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1611",
+  "aircraft_type": "C-17A",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1611-I1",
+    "date": "2024-08-16",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00311",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00312",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00313",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00314",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1619",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1619-I2",
+    "date": "2024-03-01",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1619-I1",
+    "date": "2024-03-07",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1619-I3",
+    "date": "2024-04-25",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1619-I4",
+    "date": "2024-10-23",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00315",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00316",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00317",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00318",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1630",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1630-I1",
+    "date": "2024-01-20",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00319",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00320",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00321",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00322",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1630-I2",
+    "date": "2024-08-18",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00323",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00324",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00325",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1654",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1654-I2",
+    "date": "2024-03-25",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00326",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00327",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1654-I1",
+    "date": "2024-12-19",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1658",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1658-I2",
+    "date": "2024-01-05",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00330",
+      "system": "avionics",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00331",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00332",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00333",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1658-I3",
+    "date": "2024-01-12",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1658-I1",
+    "date": "2024-05-04",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00328",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00329",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1658-I4",
+    "date": "2024-06-08",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00334",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00335",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00336",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00337",
+      "system": "avionics",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1677",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1677-I1",
+    "date": "2024-01-18",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00338",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00339",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00340",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00341",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1677-I2",
+    "date": "2024-12-03",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1700",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1700-I2",
+    "date": "2024-02-02",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00342",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1700-I1",
+    "date": "2024-11-01",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1713",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1713-I1",
+    "date": "2024-05-11",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00343",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00344",
+      "system": "environmental",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00345",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1713-I3",
+    "date": "2024-08-11",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1713-I2",
+    "date": "2024-11-05",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00346",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00347",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00348",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00349",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1722",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1722-I1",
+    "date": "2024-04-07",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1722-I3",
+    "date": "2024-08-02",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00352",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00353",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00354",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1722-I2",
+    "date": "2024-11-05",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00350",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00351",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1733",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1733-I1",
+    "date": "2024-07-31",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00355",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1733-I2",
+    "date": "2024-09-19",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00356",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00357",
+      "system": "engines",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00358",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1767",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1767-I1",
+    "date": "2024-03-23",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1795",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1795-I2",
+    "date": "2024-02-14",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00359",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1795-I1",
+    "date": "2024-11-30",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1800",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1800-I2",
+    "date": "2024-01-08",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1800-I4",
+    "date": "2024-06-21",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00367",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00368",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00369",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1800-I3",
+    "date": "2024-08-03",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00363",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00364",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00365",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00366",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1800-I1",
+    "date": "2024-09-28",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00360",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00361",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00362",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1803",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1803-I1",
+    "date": "2024-03-14",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1823",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1823-I1",
+    "date": "2024-10-08",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1847",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1847-I1",
+    "date": "2024-03-29",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00370",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00371",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00372",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1856",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1856-I3",
+    "date": "2024-06-06",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1856-I2",
+    "date": "2024-11-25",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1856-I1",
+    "date": "2024-12-25",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1859",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1859-I2",
+    "date": "2024-04-06",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00376",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00377",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00378",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00379",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1859-I3",
+    "date": "2024-08-31",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1859-I1",
+    "date": "2024-09-06",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00373",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00374",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00375",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1869",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1869-I1",
+    "date": "2024-03-16",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00380",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00381",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1869-I3",
+    "date": "2024-05-19",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00386",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00387",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1869-I2",
+    "date": "2024-10-29",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00382",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00383",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00384",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00385",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1887",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1887-I1",
+    "date": "2024-02-23",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00388",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1887-I3",
+    "date": "2024-02-24",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1887-I4",
+    "date": "2024-03-11",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1887-I2",
+    "date": "2024-03-31",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00389",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00390",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1897",
+  "aircraft_type": "KC-135R",
+  "home_base": "Carver Field",
+  "inspections": [
+   {
+    "inspection_id": "T-1897-I1",
+    "date": "2024-04-22",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00391",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00392",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00393",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00394",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1897-I2",
+    "date": "2024-07-16",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00395",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00396",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1908",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-1908-I2",
+    "date": "2024-02-13",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1908-I3",
+    "date": "2024-04-16",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00397",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00398",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00399",
+      "system": "avionics",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00400",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1908-I1",
+    "date": "2024-06-22",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1920",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-1920-I1",
+    "date": "2024-11-06",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00401",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1920-I2",
+    "date": "2024-11-25",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1940",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-1940-I1",
+    "date": "2024-03-06",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00402",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1940-I2",
+    "date": "2024-11-08",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-1964",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-1964-I1",
+    "date": "2024-03-27",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00403",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1964-I4",
+    "date": "2024-05-06",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-1964-I2",
+    "date": "2024-05-31",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00404",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00405",
+      "system": "avionics",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-1964-I3",
+    "date": "2024-06-08",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00406",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00407",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00408",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00409",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2001",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2001-I1",
+    "date": "2024-02-01",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2001-I4",
+    "date": "2024-07-04",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00413",
+      "system": "engines",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00414",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2001-I3",
+    "date": "2024-10-21",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2001-I2",
+    "date": "2024-11-08",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00410",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00411",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00412",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2023",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2023-I2",
+    "date": "2024-05-24",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00415",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2023-I1",
+    "date": "2024-08-08",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2049",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2049-I3",
+    "date": "2024-05-25",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2049-I2",
+    "date": "2024-05-31",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00416",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2049-I1",
+    "date": "2024-07-04",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2052",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2052-I1",
+    "date": "2024-10-21",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00417",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00418",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2052-I2",
+    "date": "2024-12-10",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2073",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2073-I1",
+    "date": "2024-06-22",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00419",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00420",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00421",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2089",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2089-I1",
+    "date": "2024-01-09",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00422",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00423",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00424",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00425",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2089-I2",
+    "date": "2024-08-05",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2114",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2114-I1",
+    "date": "2024-01-09",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00426",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00427",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00428",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00429",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2114-I2",
+    "date": "2024-11-20",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00430",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00431",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00432",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2145",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2145-I1",
+    "date": "2024-06-10",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00433",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00434",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2145-I2",
+    "date": "2024-07-02",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00435",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00436",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00437",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00438",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2161",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2161-I2",
+    "date": "2024-05-20",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2161-I1",
+    "date": "2024-06-15",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00439",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00440",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00441",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2164",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2164-I2",
+    "date": "2024-06-28",
+    "kind": "isochronal",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2164-I1",
+    "date": "2024-09-09",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2186",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2186-I1",
+    "date": "2024-07-29",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00442",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2225",
+  "aircraft_type": "C-5M",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2225-I1",
+    "date": "2024-05-15",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2225-I2",
+    "date": "2024-07-29",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2260",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2260-I2",
+    "date": "2024-01-13",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00446",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2260-I1",
+    "date": "2024-05-07",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00443",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00444",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00445",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2260-I3",
+    "date": "2024-07-27",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00447",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00448",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00449",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2290",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2290-I1",
+    "date": "2024-01-23",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2290-I2",
+    "date": "2024-08-23",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00450",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00451",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2295",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2295-I3",
+    "date": "2024-01-18",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00457",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00458",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00459",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00460",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2295-I1",
+    "date": "2024-10-27",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00452",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2295-I2",
+    "date": "2024-12-18",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00453",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00454",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00455",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00456",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2334",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2334-I2",
+    "date": "2024-06-26",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00465",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00466",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2334-I1",
+    "date": "2024-08-30",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00461",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00462",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00463",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00464",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2334-I4",
+    "date": "2024-09-20",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2334-I3",
+    "date": "2024-11-21",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00467",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00468",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2366",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2366-I1",
+    "date": "2024-05-18",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2366-I3",
+    "date": "2024-06-20",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00472",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00473",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00474",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00475",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2366-I2",
+    "date": "2024-08-09",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00469",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00470",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00471",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2376",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2376-I4",
+    "date": "2024-01-06",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2376-I1",
+    "date": "2024-04-15",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00476",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00477",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2376-I2",
+    "date": "2024-07-20",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00478",
+      "system": "engines",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00479",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00480",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2376-I3",
+    "date": "2024-09-11",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00481",
+      "system": "fuel",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2382",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2382-I1",
+    "date": "2024-10-02",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00482",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00483",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00484",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00485",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2386",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2386-I3",
+    "date": "2024-10-13",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00486",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00487",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00488",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00489",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2386-I1",
+    "date": "2024-10-23",
+    "kind": "phase",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2386-I2",
+    "date": "2024-12-04",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2394",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2394-I2",
+    "date": "2024-01-23",
+    "kind": "home station check",
+    "findings": []
+   },
+   {
+    "inspection_id": "T-2394-I1",
+    "date": "2024-05-20",
+    "kind": "home station check",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2397",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2397-I2",
+    "date": "2024-03-14",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00493",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2397-I1",
+    "date": "2024-06-03",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00490",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00491",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00492",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2397-I3",
+    "date": "2024-06-04",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00494",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00495",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00496",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00497",
+      "system": "fuel",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2433",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2433-I1",
+    "date": "2024-04-10",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2442",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2442-I1",
+    "date": "2024-02-27",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00498",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2442-I3",
+    "date": "2024-03-25",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00502",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00503",
+      "system": "flight controls",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00504",
+      "system": "engines",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00505",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2442-I2",
+    "date": "2024-10-01",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00499",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00500",
+      "system": "environmental",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00501",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2474",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2474-I2",
+    "date": "2024-01-07",
+    "kind": "isochronal",
+    "findings": [
+     {
+      "finding_id": "F00507",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00508",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00509",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00510",
+      "system": "environmental",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2474-I1",
+    "date": "2024-05-29",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00506",
+      "system": "hydraulics",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2504",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2504-I3",
+    "date": "2024-01-28",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00514",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2504-I2",
+    "date": "2024-03-26",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00511",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00512",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00513",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2504-I1",
+    "date": "2024-12-28",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2524",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2524-I1",
+    "date": "2024-11-13",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2540",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2540-I3",
+    "date": "2024-02-13",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00522",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2540-I1",
+    "date": "2024-07-11",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00515",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00516",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00517",
+      "system": "avionics",
+      "severity": "major",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00518",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2540-I2",
+    "date": "2024-12-25",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00519",
+      "system": "avionics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00520",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00521",
+      "system": "flight controls",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2545",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2545-I1",
+    "date": "2024-02-16",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00523",
+      "system": "landing gear",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00524",
+      "system": "fuel",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00525",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2545-I2",
+    "date": "2024-06-17",
+    "kind": "home station check",
+    "findings": [
+     {
+      "finding_id": "F00526",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2552",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2552-I1",
+    "date": "2024-10-18",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00527",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00528",
+      "system": "engines",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00529",
+      "system": "avionics",
+      "severity": "minor",
+      "status": "open"
+     },
+     {
+      "finding_id": "F00530",
+      "system": "environmental",
+      "severity": "minor",
+      "status": "closed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2572",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2572-I2",
+    "date": "2024-07-07",
+    "kind": "phase",
+    "findings": [
+     {
+      "finding_id": "F00531",
+      "system": "hydraulics",
+      "severity": "major",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00532",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00533",
+      "system": "landing gear",
+      "severity": "minor",
+      "status": "closed"
+     },
+     {
+      "finding_id": "F00534",
+      "system": "fuel",
+      "severity": "minor",
+      "status": "open"
+     }
+    ]
+   },
+   {
+    "inspection_id": "T-2572-I1",
+    "date": "2024-10-30",
+    "kind": "phase",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-2587",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": [
+   {
+    "inspection_id": "T-2587-I1",
+    "date": "2024-04-26",
+    "kind": "isochronal",
+    "findings": []
+   }
+  ]
+ },
+ {
+  "tail_id": "T-0001",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": []
+ },
+ {
+  "tail_id": "T-0002",
+  "aircraft_type": "KC-135R",
+  "home_base": "Dunmore AFB",
+  "inspections": []
+ }
+]
