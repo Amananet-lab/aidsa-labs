@@ -1,0 +1,16 @@
+{
+  "model": "random forest",
+  "threshold": 0.2931,
+  "cost_missed": 3,
+  "cost_false_alarm": 1,
+  "cv_auc": 0.7085,
+  "test_auc": 0.7383,
+  "cv_auc_all": {
+    "logistic regression": 0.6926,
+    "k-nearest neighbours": 0.6714,
+    "support vector machine": 0.6593,
+    "decision tree": 0.6805,
+    "random forest": 0.7085,
+    "gradient boosting": 0.6747
+  }
+}
